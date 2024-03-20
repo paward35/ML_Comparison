@@ -1,4 +1,3 @@
-import Message from './message.tsx';
 
 
 function App() {
